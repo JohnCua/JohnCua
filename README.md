@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I’m Juan Cua @JohnCua</h1>
 <h3 align="center">I'm a Web Developer with 5+ years of experience. A passionate frontend developer from Guatemala</h3>
 
-- 🔭 I’m currently working on **Web App Alfred**
+- 🔭 I’m currently working on **Web App**
 
 - 🌱 I’m currently learning a **lot of stuff**
 
-- 👀 I’m interested in **Coding.**
+- 👀 I’m interested in **Coding**
 
 - 📫 How to reach me **cuatumax@gmail.com**
 
